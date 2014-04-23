@@ -8,5 +8,6 @@
     <string name="title_activity_book_lists">BookLists</string>
     <string name="title_activity_complete_details">CompleteDetails</string>
     <string name="title_activity_vendors_details">VendorsDetails</string>
+    <string name="title_activity_my_application">MyApplication</string>
 
 </resources>

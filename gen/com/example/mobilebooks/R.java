@@ -78,15 +78,17 @@ public final class R {
         public static final int activity_complete_details=0x7f030001;
         public static final int activity_entry=0x7f030002;
         public static final int activity_main=0x7f030003;
-        public static final int activity_vendors_details=0x7f030004;
-        public static final int listview=0x7f030005;
+        public static final int activity_my_application=0x7f030004;
+        public static final int activity_vendors_details=0x7f030005;
+        public static final int listview=0x7f030006;
     }
     public static final class menu {
         public static final int book_lists=0x7f0a0000;
         public static final int complete_details=0x7f0a0001;
         public static final int entry=0x7f0a0002;
         public static final int main=0x7f0a0003;
-        public static final int vendors_details=0x7f0a0004;
+        public static final int my_application=0x7f0a0004;
+        public static final int vendors_details=0x7f0a0005;
     }
     public static final class raw {
         public static final int beep=0x7f050000;
@@ -107,6 +109,7 @@ public final class R {
         public static final int title_activity_book_lists=0x7f080004;
         public static final int title_activity_complete_details=0x7f080005;
         public static final int title_activity_entry=0x7f080003;
+        public static final int title_activity_my_application=0x7f080007;
         public static final int title_activity_vendors_details=0x7f080006;
     }
     public static final class style {
